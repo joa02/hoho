@@ -7,7 +7,11 @@
 ## Readme.com 
 ### :hushed:
 # tut para subir arch a github
+## antes hacer ctrl + s 
 ### primero: git add .
 ### 2ndo: git commit
 ### 3ero: git push
-###
+### hola soy joa
+# Esto es una rama3
+## el a3 lo voy a unir a la rama3
+## :boom:
