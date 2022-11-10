@@ -5,7 +5,7 @@
 #### A esto se sumará un bono de $ 10.000 en diciembre, enero y febrero para jubilados que cobren el haber mínimo y de $ 7.000 para los que perciben un monto equivalente a dos haberes mínimos, lo que incluye al 84% del total de los jubilados.
 ##### El anuncio fue formulado a través de una conferencia de prensa brindada desde la sede de la Anses por el ministro de Economía, Sergio Massa, y la titular del organismo previsional, Fernanda Raverta.
 ## Readme.com 
-# :hushed:
+### :hushed:
 # tut para subir arch a github
 ### primero: git add .
 ### 2ndo: git commit
