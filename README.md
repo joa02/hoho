@@ -6,3 +6,9 @@
 ##### El anuncio fue formulado a través de una conferencia de prensa brindada desde la sede de la Anses por el ministro de Economía, Sergio Massa, y la titular del organismo previsional, Fernanda Raverta.
 ## Readme.com 
 # :hushed:
+# tut para subir arch a github
+### primero: git add .
+### 2ndo: git commit
+### 3ero: git push
+###
+###
