@@ -12,7 +12,6 @@
 ### 2ndo: git commit
 ### 3ero: git push
 ### hola soy joa
-### :smile:
 
 
 
