@@ -12,6 +12,5 @@
 ### 2ndo: git commit
 ### 3ero: git push
 ### hola soy joa
-### :smile:
 # Esto es una rama3
 ##### el a3 lo voy a unir a la rama3
