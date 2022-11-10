@@ -13,4 +13,3 @@
 ### 3ero: git push
 ### hola soy joa
 ### :smile:
-#### cree una rama a rama2
